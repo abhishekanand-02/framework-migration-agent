@@ -66,5 +66,5 @@ Using **LangGraph**, the system executes a sequence of intelligent nodes:
 
 ## D. Sequence Diagram
 
-![alt text](frontend\assests\image.png)
+![alt text](frontend/assets/image.png)
 
